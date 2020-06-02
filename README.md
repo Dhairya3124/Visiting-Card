@@ -5,3 +5,6 @@ This is an electronic visiting card made using Flutter(DART).Imagine every time 
 * How to style text Widgets.
 * How to add custom fonts.
 * How to use columns and rows widgets to align our UI elements. 
+
+
+![alt text](https://github.com/Dhairya3124/Visiting-Card/blob/master/UIscreen.png)
